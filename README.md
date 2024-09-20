@@ -2,7 +2,7 @@
 
 ## Sobre CS VUE
 
-Este projeto é desenvolvido e mantido por Coding Storm.
+Este projeto é desenvolvido e mantido por Coding Storm. Ele é uma copia da estrutura web do site para fins de estudos, reuso, entre outros objetivos.
 
 ### Stack utilizada
 
