@@ -1,0 +1,55 @@
+$bl1: #0540f2;
+$bl2: #0018be;
+$bl1-dark: #081226;
+$blk1: #0e0e0e;
+$blk2: #1e1e1e;
+$blk3: #404040;
+$blk4: #747474;
+$ylw1: #f2b705;
+$wth1: #ffffff;
+$red1: #f20540;
+$gren1: #40f205;
+$grey1: #bebebe;
+$grey2: #dedede;
+$grey3: #eeeeee;
+$grey4: #fefefe;
+$bdra1: 3px;
+$shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.2);
+
+.red {
+  background: red !important;
+}
+
+.blue {
+  background: blue !important;
+}
+
+/** sm */
+@media (min-width: 576px) {
+}
+
+/** md */
+@media (min-width: 768px) {
+}
+
+/** lg */
+@media (min-width: 992px) {
+}
+
+/** xl */
+@media (min-width: 1200px) {
+}
+
+/** xxl */
+@media (min-width: 1400px) {
+}
+
+.icon-mail {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("data:image/svg+xml,%3Csvg%20version='1.1'%20id='Camada_1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20x='0px'%20y='0px'%20viewBox='0%200%20800%20800'%20style='enable-background:new%200%200%20800%20800;'%20xml:space='preserve'%3E%3Cpath%20d='M24.1,128.4c20-27.8,52.5-46.4,89.7-46.4h572.4c37.2,0,69.7,18.7,89.7,46.4c13.7,19,21.6,42.4,21.6,67.5V604c0,61.6-48.5,114-111.3,114H113.8C51,718,2.5,665.6,2.5,604V196C2.5,170.8,10.5,147.4,24.1,128.4z%20M119.1,161.5l251.5,276.8c15.8,17.4,43.1,17.4,58.8,0l251.5-276.8H119.1z%20M718,238.9L488.3,491.8c-47.3,52.1-129.2,52.1-176.5,0L82,238.9V604c0,20.4,15.6,34.5,31.8,34.5h572.4c16.2,0,31.8-14,31.8-34.5V238.9z'/%3E%3C/svg%3E");
+}
